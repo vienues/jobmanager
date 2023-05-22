@@ -73,7 +73,7 @@ yarn e2e
 
 ### Admin
 
-- `/admin`: able to see and edit information using django admin
+- `/admin`: able to see and edit information using admin(django)
 
 ### Tests
 
